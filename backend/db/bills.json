@@ -1,1 +1,36 @@
-[{"id":"4edc8fc2-6b67-4d9e-86c7-86b4fea0f201","billnum":"127387289379","description":"Test de facture POST","date":"2024-07-12","client":{"id":1,"firstName":"Luc","lastName":"Skywalker","fonction":"Jedi","email":"luc@skywalker.com","phone":"118218","companyName":"Ordre des Jedi","address1":"Rue de la Force","address2":"Temple Jedi","zip":"75001","city":"Coruscant","country":"France","date":"18-07-2024"},"prestations":[{"id":1720785003446,"description":"Exemple de prestation sldfksdlfk","qty":2,"price":450}],"discount":0,"paid":0,"totalHT":900,"tva":20,"totalTTC":1080},{"id":"b3e95ed0-291c-4711-b60c-ea9ad3af28ca","billnum":"test","description":"teet","date":"2024-07-12","client":{"id":1,"firstName":"Marc","lastName":"Scout","companyName":"Lumon Industries"},"prestations":[{"id":1720788039170,"description":"Exemple de prestation","qty":1,"price":450}],"discount":0,"paid":0,"totalHT":450,"tva":20,"totalTTC":540}]
+[
+  {
+    "id": "4edc8fc2-6b67-4d9e-86c7-86b4fea0f201",
+    "billnum": "127387289379",
+    "description": "Test de facture POST",
+    "date": "2024-07-12",
+    "client": {
+      "id": 1,
+      "firstName": "Luc",
+      "lastName": "Skywalker",
+      "fonction": "Jedi",
+      "email": "luc@skywalker.com",
+      "phone": "118218",
+      "companyName": "Ordre des Jedi",
+      "address1": "Rue de la Force",
+      "address2": "Temple Jedi",
+      "zip": "75001",
+      "city": "Coruscant",
+      "country": "France",
+      "date": "18-07-2024"
+    },
+    "prestations": [
+      {
+        "id": 1720785003446,
+        "description": "Exemple de prestation sldfksdlfk",
+        "qty": 2,
+        "price": 450
+      }
+    ],
+    "discount": 0,
+    "paid": 0,
+    "totalHT": 900,
+    "tva": 20,
+    "totalTTC": 1080
+  }
+]

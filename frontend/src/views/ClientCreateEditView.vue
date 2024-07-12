@@ -201,8 +201,8 @@ export default {
       }
     },
 
-    onDeleteClient(client) {
-      this.deleteClient(client)
+    onDeleteClient() {
+      this.deleteClient(this.id)
       this.$router.push({ path: '/clients' })
     }
   }
