@@ -1,1 +1,47 @@
-[{"id":2,"firstName":"Marc","lastName":"Scout","fonction":"Scout","email":"marc@scout.com","phone":"987654321","companyName":"Lumon Industries","address":"Rue de la Lumière","address2":"Temple Jedi","zip":"75000","city":"Coruscant","country":"France","date":"12-07-2024"},{"id":4,"firstName":"Jane","lastName":"Doe","fonction":"secrétaire","email":"Jane@Doe.com","phone":"987654321","companyName":"Lumon Industries","address":"Rue de la Lumière","address2":"Temple Jedi","zip":"75000","city":"Coruscant","country":"France","date":"12-07-2024"}]
+[
+  {
+    "id": 2,
+    "firstName": "Marc",
+    "lastName": "Scout",
+    "fonction": "Scout",
+    "email": "marc@scout.com",
+    "phone": "987654321",
+    "companyName": "Lumon Industries",
+    "address": "Rue de la Lumière",
+    "address2": "Temple Jedi",
+    "zip": "75000",
+    "city": "Coruscant",
+    "country": "France",
+    "date": "12-07-2024"
+  },
+  {
+    "id": 4,
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "fonction": "secrétaire",
+    "email": "Jane@Doe.com",
+    "phone": "987654321",
+    "companyName": "Lumon Industries",
+    "address": "Rue de la Lumière",
+    "address2": "Temple Jedi",
+    "zip": "75000",
+    "city": "Coruscant",
+    "country": "France",
+    "date": "12-07-2024"
+  },
+  {
+    "id": "2de830c8-b0ae-4d95-81d1-f19fd581f29e",
+    "firstName": "Luc",
+    "lastName": "Skywalker",
+    "companyName": "Ordre Jedi",
+    "email": "lec@skywalker.com",
+    "phone": "118218",
+    "address1": "planete lointaine",
+    "address2": "",
+    "zip": "57000",
+    "city": "coruscentre",
+    "country": "tatouine",
+    "date": "12-07-2024",
+    "fonction": "jedi"
+  }
+]
